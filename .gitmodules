@@ -1,0 +1,3 @@
+[submodule "fds"]
+	path = fds
+	url = git@github.com:brain-fuel/fds.git
